@@ -99,5 +99,9 @@ public class Thaiseelan {
        alt="Information Gathering Tool" />
 </a>
 
+---
+##**GITHUB STATS**
+
+![Pacman Contribution Graph](https://raw.githubusercontent.com/Thaiseelan/Thaiseelan/output/pacman-contribution-graph.svg)
 
 
