@@ -34,28 +34,6 @@ I’m a **Java Developer** and **cloud Enthusiast** who enjoys turning ideas int
        src="https://github-readme-stats.vercel.app/api?username=Thaiseelan&show_icons=true&count_private=true&line_height=27&theme=github_dark"
        alt="Thaiseelan's GitHub Stats" />
 </a>
-
-
-## 🧩 A Bit of Me
-
-```java
-
-public class Thaiseelan {
-
-    private final String role = "Java Backend Engineer";
-
-    private final String[] strengths = {
-        "DSA", "Cloud Infrastructure" 
-    };
-
-    void currentFocus() {
-        System.out.println("Building scalable Applications");
-        System.out.println("Designing cloud-native architectures on AWS");
-        System.out.println("Practicing algorithms daily");
-    }
-}
-```
-
 ---
 
 ## ☁️ Cloud & DevOps
